@@ -4,9 +4,13 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marialet14&theme=orange-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marialet14&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=FF4500&fire=FF4500&border=FF4500&sideNums=FF4500&sideLabels=FF4500&currStreakLabel=FF4500&dates=FF4500&stroke=FF4500)](https://git.io/streak-stats)
 
-</div> 
+</div>
+
+
+
+
 
 <a href="mailto:cmp.1a.marialeticiamotaa@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/marialet14/marialet14/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
