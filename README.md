@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou Maria Letícia</h1>
-
-<h3 align="center">Estudante de Sistemas de Informação da Universidade de Pernambuco</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=892CDC&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+eu+sou+Maria+Letícia;Estudante+de+Sistemas+de+Informação+na+Universidade+de+Pernambuco;+:%29)](https://git.io/typing-svg) 
 
 - Estou aprendendo as linguagens **R, SQL e C**
 
