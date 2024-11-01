@@ -1,6 +1,6 @@
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Maria+Letícia;Estudo+Sistemas+de+Informação+na+UPE;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Maria+Letícia;Estudo+Sistemas+de+Informação+na+UPE;)](https://git.io/typing-svg) 
 
 - Estou aprendendo as linguagens **R, SQL e C**
 
