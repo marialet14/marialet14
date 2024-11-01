@@ -9,12 +9,9 @@
 </div>
 
 
+## Contact me:
 
-
-
-<a href="mailto:cmp.1a.marialeticiamotaa@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/marialet14/marialet14/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialeticiamotaa@gmail.com)
 
 
 ---
