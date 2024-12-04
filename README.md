@@ -1,5 +1,3 @@
-
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Olá,+Salut,+Ciao,+Hola;I+am+Maria+Letícia;Information+Systems+student;)](https://git.io/typing-svg) 
 
 <div align="center">
